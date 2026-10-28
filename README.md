@@ -2,8 +2,6 @@
 
 A chess clock I designed and built on my own as a learning project.
 
-![Chess clock](images/front.jpg)
-
 **Videos of the clock in action:** [Google Drive](https://drive.google.com/drive/folders/1sQYMvmA-D-meGYdj8IVYb6a-Tlf4nF57?usp=sharing)
 
 ## Features
